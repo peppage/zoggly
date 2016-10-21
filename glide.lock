@@ -1,0 +1,12 @@
+hash: 4bfe7537cf404895581b127be07f9ba1ca49c0e831f37aa6f9ed427184a9efbd
+updated: 2016-10-21T17:50:53.854365-04:00
+imports:
+- name: github.com/segmentio/go-loggly
+  version: 7c4f9c95707ab46d8ab21393f8cb41857a5e333e
+- name: github.com/uber-go/atomic
+  version: 6c2817a9ef3b9315f7d237a652f2ab0dac2aee96
+- name: github.com/uber-go/zap
+  version: c4939d1166b2220bb45338e21506623b4bbdec50
+- name: github.com/visionmedia/go-debug
+  version: ff4a55a20a86994118644bbddc6a216da193cc13
+testImports: []

@@ -1,0 +1,5 @@
+package: zoggly
+import:
+- package: github.com/segmentio/go-loggly
+  version: ^0.4.3
+- package: github.com/uber-go/zap
