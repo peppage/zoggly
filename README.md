@@ -1,5 +1,8 @@
-# zoggly
+# zoggly (ARCHIVED)
 Loggly hooks for GO uber :zap: Zap logger
+
+## Archived
+This is probably so out of sync with the main package there's no reason to have it now.
 
 ## Usage
 This example sends to loggly and standard out.
